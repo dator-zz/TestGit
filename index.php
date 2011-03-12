@@ -1,1 +1,1 @@
-<?php echo time(); ?>
+Il est : <?php echo time(); ?> !!
